@@ -15,3 +15,9 @@
 - JavaScript asincrónico: the event loop, promises, async/await, y error handling. Los usará para acceder a datos de API de terceros con llamadas AJAX. [Esto es como un pequeño curso independiente]
 
 - Herramientas modernas que utilizan los desarrolladores web profesionales: módulos NPM, Parcel (paquete de módulos), Babel y ES6
+
+---
+
+## PROYECTOS REALIZADOS EN EL CURSO
+
+[GUESS MY NUMBER](https://codepen.io/PatriciaVendrame/pen/qBPNdPX)
