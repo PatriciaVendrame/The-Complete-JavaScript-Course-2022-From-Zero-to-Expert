@@ -75,33 +75,6 @@ checkWinner(calcAverage(85, 54, 41), calcAverage(23, 34, 27));
 // (mark.bmi >= john.bmi) ?
 // console.log(`${mark.name} BMI (${mark.bmi})  is higher than ${john.name} (${john.bmi})`): console.log(`${john.name} BMI (${john.bmi})  is higher than ${mark.name} (${mark.bmi})`);
 
-/** WHILE LOOP **/
-// tiene los mismos parametros que el for, un inicializador, una condicion y un incremento/decremento
-// for (let rep = 1; rep < 10; rep++) {
-//     console.log(`Lifting weights repetition ${rep}🏋️‍♀️`);
-// }
-
-// console.log('====================================');
-
-// let repeat = 1;
-// while (repeat <= 10) {
-//     console.log(`Lifting weights repetition ${repeat}🏋️‍♂️`);
-//     repeat++;
-// }
-
-//en el ciclo while no necesitamos siempre un contador, la mayoria de las veces se usa para evaluar que algo se realiza mientras se cumpla la condicion
-//ejemplo lanzamiento de dados, numero random de 0.00 a 0.99 que al multiplicarlo por 6 el mayor valor es 5.94, un numero que tiende a ser 6 pero nunca lo es, a este rtdo le sumamos uno y al aplicar la funcion trunc se elimina la parte decimal llendo de 0 a 6
-
-// let dice = (Math.trunc(Math.random() * 6) + 1);
-// while (dice !== 6) {
-//     console.log(`You rolled a ${dice}`);
-//     //se necesita volver a tirar para que no caiga en un loop infinito
-//     dice = (Math.trunc(Math.random() * 6) + 1);
-//     if (dice === 6) {
-//         console.log('Loop es about to end...');
-//     }
-// }
-
 //=================================================
 /** CHALLENGE #4 **/
 const bill = [22, 295, 176, 440, 37, 105, 10, 1100, 86, 52];
