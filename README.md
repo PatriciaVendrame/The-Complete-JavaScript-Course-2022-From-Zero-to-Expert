@@ -20,4 +20,6 @@
 
 ## PROYECTOS REALIZADOS EN EL CURSO
 
-[GUESS MY NUMBER](https://codepen.io/PatriciaVendrame/pen/qBPNdPX)
+[PROYECTO GUESS MY NUMBER](https://js2022-project1-guess-my-number.netlify.app/)
+[PROYECTO MODAL](https://js2022-project2-modal.netlify.app/)
+[PROYECTO PIG GAME](https://js2022-project3-pig-game.netlify.app/)
